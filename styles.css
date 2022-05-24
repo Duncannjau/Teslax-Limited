@@ -8,3 +8,25 @@ div {
 p {
     color: red;
 }
+
+#title {
+    background-color: #0f43df;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h3 {
+    text-emphasis-color: rgb(8, 241, 8);
+    font-family: 'Times New Roman', Times, serif.italic;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-rendering: inherit;
+}
