@@ -1,78 +1,80 @@
-<<<<<<< HEAD
-                /*Styles.css*/
-                
-                div {
-                    color: #ffffff
-                }
-                
-                p {
-                    color: red;
-                }
-                
-                .flex container div {
-                    flex: content;
-                    background-color: lightgreen;
-                    width: fit-content;
-                    height: fit-content;
-                    padding: 50px;
-                    margin: 20px;
-                    font: size 15px;
-                    ;
-                }
-                
-                title {
-                    background-color: #0f43df;
-                }
-                
-                h1 {
-                    text-align: center;
-                    text-decoration-color: blue;
-                    text-size-adjust: auto;
-                    font-style: normal;
-                }
-                
-                h2 {
-                    text-rendering: inherit;
-                }
+    <<<<<<< HEAD
+/*Styles.css*/
+
+div {
+    color: #ffffff
+}
+
+p {
+    color: red;
+}
+
+.flex container div {
+    flex: content;
+    background-color: lightgreen;
+    width: fit-content;
+    height: fit-content;
+    padding: 50px;
+    margin: 20px;
+    font: size 15px;
+    ;
+}
+
+title {
+    flex-direction: row;
+    background-color: #0f43df;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-color: blue;
+    text-size-adjust: auto;
+    font-style: normal;
+}
+
+h2 {
+    text-rendering: inherit;
+}
+
 =======
-                        /*Styles.css*/
-                    
-                    div {
-                        color: #ffffff
-                    }
-                    
-                    p {
-                        color: red;
-                    }
-                    
-                    div {
-                        flex: content;
-                        background-color: lightgreen;
-                        width: fit-content;
-                        height: fit-content;
-                        padding: 50px;
-                        margin: 20px;
-                    }
-                    
-                    #title {
-                        background-color: #0f43df;
-                        img {
-                            height: auto;
-                            width: 500px;
-                            padding: 50px;
-                            margin: 20px;
-                        }
-                         ::-webkit-validation-bubble-text-block h3 {
-                            text-emphasis-color: rgb(8, 241, 8);
-                            font-family: 'Times New Roman', Times, serif.italic;
-                        }
-                        h1 {
-                            text-align: center;
-                            text-decoration-color: blue;
-                            text-size-adjust: auto;
-                            font-style: normal;
-                        }
-                        h2 {
-                            text-rendering: inherit;
-                        }
->>>>>>> 598cab654a5725d5e433f1e209b9fd081656fca0
+/*Styles.css*/
+
+div {
+    color: #ffffff
+}
+
+p {
+    color: red;
+}
+
+div {
+    flex: content;
+    background-color: lightgreen;
+    width: fit-content;
+    height: fit-content;
+    padding: 50px;
+    margin: 20px;
+}
+
+#title {
+    background-color: #0f43df;
+    img {
+        height: auto;
+        width: 500px;
+        padding: 50px;
+        margin: 20px;
+    }
+     ::-webkit-validation-bubble-text-block h3 {
+        text-emphasis-color: rgb(8, 241, 8);
+        font-family: 'Times New Roman', Times, serif.italic;
+    }
+    h1 {
+        text-align: center;
+        text-decoration-color: blue;
+        text-size-adjust: auto;
+        font-style: normal;
+    }
+    h2 {
+        text-rendering: inherit;
+    }
+    >>>>>>>598cab654a5725d5e433f1e209b9fd081656fca0
