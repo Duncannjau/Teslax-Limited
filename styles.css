@@ -1,13 +1,17 @@
         /*Styles.css*/
         
-        .blue {
-            color: rgb(0, 26, 255);
+        body {
+            background-color: aquamarine text-align: center
+        }
+        
+        title {
+            color: rgb(0, 255, 34);
         }
         
         h1 {
             text-align: center;
             text-decoration-color: rgb(72, 255, 0);
-            text-size-adjust: auto;
+            text-decoration-color: blue;
             font-style: normal;
         }
         
